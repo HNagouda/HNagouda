@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Computer Vision**, especially **Medical Image Segmentation**
 
-- 🌱 I’m currently learning **Generative Adversarial Networks**
+- 🌱 I’m currently learning **NVIDIA-RAPIDS**
 
 - 💞️ I’m looking to collaborate on **anything related to deep learning!**
 
