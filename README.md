@@ -1,5 +1,4 @@
 <h1 align="center">Hi there!, I'm Harsh👋</h1>
-<h3 align="center">I'm a budding Data Scientist and aspiring Cybersecurity Engineer</h3>
 
 - 👀 I’m interested in **Computer Vision**, especially **Medical Image Segmentation**
 
