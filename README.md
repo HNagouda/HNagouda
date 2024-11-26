@@ -12,6 +12,7 @@
   <a href="https://developer.nvidia.com/rapids" target="_blank"> <img src="https://rapids.ai/branding/logo-clear-bg-purple-text.svg" alt="NVIDIA RAPIDS" width="110" height="40"/> </a> 
   <a href="https://www.mlflow.org" target="_blank"> <img src="https://mlflow.org/img/mlflow-black.svg" alt="MLflow" width="110" height="40"/> </a> 
   <a href="https://onnx.ai/" target="_blank"> <img src="https://onnx.ai/images/ONNX-Logo.svg" alt="ONNX" width="110" height="40"/> </a> 
+  <a href="https://wandb.ai/site" target="_blank"> <img src="https://raw.githubusercontent.com/wandb/assets/04cfa58cc59fb7807e0423187a18db0c7430bab5/wandb-dots-logo.svg" alt="Docker" width="40" height="40"/> </a> 
   <a href="https://www.huggingface.co" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/> </a> 
   <a href="https://www.pola.rs" target="_blank"> <img src="https://avatars.githubusercontent.com/u/83768144?s=48&v=4" alt="Polars" width="40" height="40"/> </a> 
   <a href="https://www.weaviate.io" target="_blank"> <img src="https://avatars.githubusercontent.com/u/37794290?s=48&v=4" alt="Weaviate" width="35" height="40"/> </a> 
@@ -20,3 +21,4 @@
   <a href="https://feast.dev" target="_blank"> <img src="https://avatars.slack-edge.com/2024-01-23/6516964820837_9bcbc7eaaa44535b72d7_230.png" alt="FEAST" width="40" height="40"/> </a> 
   <a href="https://www.docker.com" target="_blank"> <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="40" height="40"/> </a> 
 </p>
+
